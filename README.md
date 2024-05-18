@@ -12,7 +12,7 @@ VAMPP-score is not available for installation yet (will made available as a Dock
 
 
 ## Web Interface
-VAMPP-score is available at [vammpscore.com ](https://vamppscore.com/) with all of its components, with a dynamic interface. You can access the VAMPP-score of a variant, a gene-score for each ISPP based on their prediction performance, and the best-performing ISPPs with their scores for your variant/gene of interest.
+VAMPP-score is available at [vamppscore.com ](https://vamppscore.com/) with all of its components, with a dynamic interface. You can access the VAMPP-score of a variant, a gene-score for each ISPP based on their prediction performance, and the best-performing ISPPs with their scores for your variant/gene of interest.
 
 
 ## Update status
