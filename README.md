@@ -1,8 +1,3 @@
-# VAMPP-score
-VAMPP-score is a metascore for variant pathogenicity prediction.
+# VAMPP-score (Variant Analysis with Multiple Pathogenicity Predictors)
 
-Approximately 85% of the variations known to cause Mendelian diseases are in coding and splicing regions of the human genome. In diagnostics, these regions are scanned by whole-exome sequencing (WES), a preferred cost-effective and practical method. Missense variants are one of the most encountered variants in WES analysis, resulting in an amino acid (AA) through single nucleotide substitution. They are suspected to cause phenotypic effects due to protein structure/function disruption and such variants are reported as “causal” if they influence the biological phenotype. However, associating a missense variant with a disease without functional studies is not easy. Even the clinician’s expert opinion is insufficient to classify the variant without more evidence.
-
-Genomic variant interpretation is a critical step in diagnostic short-read sequencing. A “supporting” evidence for pathogenicity (PP3) in the ACMG/AMP 2015 guideline is defined by the agreement of multiple lines of in-silico evidence assessments. Many in-silico predictors have been developed in this context. However, as data accumulate in databases such as ClinVar, it has been observed that these predictors do not always provide accurate predictions for each gene.
-
-Therefore, choosing the predictors would create a bias, and there should be a standard on which tool to use for diagnostic variant interpretation. Here we present a tool that statistically compares the efficiency of 46 different in-silico predictors. As input, the dbNSFP (v4.3a) dataset was used for missense variants submitted to ClinVar as of April 2023 to ensure correct gene-specific predictor matching, followed by calculating a metascore (called VAMPP-Variant Analysis with Multivariate Pathogenicity Prediction) that assigns pathogenicity to each possible variation in the human genome.
+VAMPP-score is a metascore for missense variant pathogenicity prediction.
