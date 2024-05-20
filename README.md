@@ -34,20 +34,20 @@ The scripts can be run from source after the insallation of the dependencies. Th
 * request
 * PyArrow 
 
-## Details
-dbNSFP data was used to create a database utilizing DuckDB, consisting tables for each chromosome (1-22, X, and Y). DuckDB XX. Ensembl transcript with request and table, ClinVar data as temp_table, then data for calculation --> gene scores -- VAMPP- ranked, approach can be used with other input data for any purpose. distribution-proximity-correct score assignment as path and ben
-
-**figure**
 
 ## Web Interface
 VAMPP-score is soon available at [vamppscore.com ](https://vamppscore.com/) with all of its components, with a dynamic interface. You can access the VAMPP-score of a variant, a gene-score for each ISPP based on their prediction performance, and the best-performing ISPPs for your gene of interest.
 
 ## License
-....
+
+for code: apache*
+
+for data: creative commons*
 
 
 ## Citation and Contact
-Please cite us in if you used VAMPP-score or any of its components in your work: 
+Please cite us if you used VAMPP-score or any of its components in your work: 
+
 ....
 
 If you have any questions please contact us at email@example.com.
