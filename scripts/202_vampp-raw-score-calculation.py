@@ -5,12 +5,16 @@ import gzip
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
+# Create a function to load the calculated gene scores for ISPP performance
+
 def load_genescores_json(genescores_f):
     print("Loading gene scores from JSON file...")
     with open(genescores_f, "r") as f:
         gene_scores = json.load(f)
     print("Gene scores loaded successfully.")
     return gene_scores
+
+# Create a function to calculate the VAMPP-score, utilizing the loaded gene scores iterating over dbNSFP chromosome data
 
 def metascore_dbnsfp(dbnsfp_f, metascore_tsv, all_genescores):
 
@@ -77,6 +81,7 @@ def execute_dbnsfp(input_dir, output_dir, all_genescores):
         for future in futures:
             future.result()  # This will raise exceptions from the threads if any and ensure completion
 
+# Define the needed input and output file paths
 
 def main():
     gene_scores_file = "/path/to/genescore/files/[all_genescores].json"  # Adjust the path as needed
