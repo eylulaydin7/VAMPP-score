@@ -5,7 +5,9 @@
 VAMPP-score is a metascore for missense variant pathogenicity prediction. It utilizes 52 availaible in silico pathogenicity predictors (ISPPs) available in dbNSFP(v4.7A) based on their performance of distinguishing and identifying three main variant groups (Pathogenic, Benign, and Unknown), trained with ClinVar data.
 
 [ClinVar](https://pubmed.ncbi.nlm.nih.gov/31777943/).Landrum, M. J., Chitipiralla, S., Brown, G. R., Chen, C., Gu, B., Hart, J., Hoffman, D., Jang, W., Kaur, K., Liu, C., Lyoshin, V., Maddipatla, Z., Maiti, R., Mitchell, J., O'Leary, N., Riley, G. R., Shi, W., Zhou, G., Schneider, V., Maglott, D., … Kattman, B. L. (2020). ClinVar: improvements to accessing data. Nucleic acids research, 48(D1), D835–D844. https://doi.org/10.1093/nar/gkz972
+
 [dbNSFPv4](https://pubmed.ncbi.nlm.nih.gov/33261662/). Liu, X., Li, C., Mou, C., Dong, Y., & Tu, Y. (2020). dbNSFP v4: a comprehensive database of transcript-specific functional predictions and annotations for human nonsynonymous and splice-site SNVs. Genome medicine, 12(1), 103. https://doi.org/10.1186/s13073-020-00803-9
+
 [dbNSFP](https://pubmed.ncbi.nlm.nih.gov/21520341/). Liu, X., Jian, X., & Boerwinkle, E. (2011). dbNSFP: a lightweight database of human nonsynonymous SNPs and their functional predictions. Human mutation, 32(8), 894–899. https://doi.org/10.1002/humu.21517
 
 
