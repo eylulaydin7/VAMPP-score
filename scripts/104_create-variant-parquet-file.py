@@ -20,7 +20,7 @@ with open('file/path/to/your/wanted/column/info/[wanted_columns].txt', 'rt') as 
 # Establish a database connection
 conn = duckdb.connect(database='file/path/to/your/duckdb/[database_name].duckdb')
 
-# Create a temporary table for ClinVar variants
+# Create a temporary table for ClinVar variants - can be accessed through out 'clinvar-data' link (only involves missense variants on GRCh38)
 conn.execute("""
     CREATE TEMPORARY TABLE temp_clinvar AS
     SELECT * FROM read_csv_auto('file/path/to/your/filtered/missense-variants/from/clinvar/[variant_file].tsv');
