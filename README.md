@@ -50,5 +50,5 @@ VAMPP-score will soon be available at [vamppscore.com ](https://vamppscore.com/)
 ## Contact
 
 If you have any questions, please contact us at:
-[Ozkan Ozdemir](mailto:Ozkan.Ozdemir@acibadem.edu.tr).
-[Eylul Aydin](mailto:Eylul.Aydin@live.acibadem.edu.tr).
+* [Ozkan Ozdemir](mailto:Ozkan.Ozdemir@acibadem.edu.tr)
+* [Eylul Aydin](mailto:Eylul.Aydin@live.acibadem.edu.tr)
