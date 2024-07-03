@@ -43,8 +43,8 @@ VAMPP-score will soon be available at [vamppscore.com ](https://vamppscore.com/)
 
 ## License
 
-- [Apache License 2.0] (https://github.com/eylulaydin7/VAMPP-score/blob/main/LICENSE)
-- For data: Creative Commons*
+- Code: Apache License 2.0
+- Data: Creative Commons*
 
 
 ## Contact
