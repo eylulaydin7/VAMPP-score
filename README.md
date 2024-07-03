@@ -18,7 +18,7 @@ dbNSFP: [Liu et al., 2011](https://doi.org/10.1002/humu.21517)
 
 
 ## Usage and Access
-**VAMPP-score** is not available for installation. However, you can navigate to the web interface to access scores. VAMPP-score is manually updated on the first Friday of each month, with recalculations available on the web platform. Annotation data can be accessed from [ClinVar data](https://drive.google.com/drive/folders/1aziBk58jTu49lSItZQaPKBtEVeACfWlJ?usp=drive_link) on Google Drive. Each month's data is stored in a folder named YYYY-MM. The annotation data is uploaded each month in the same format and can be accessed through [annotation data](https://drive.google.com/drive/folders/1-wo9QguOqtEhokpVpsrDuOsduntFEfHU?usp=drive_link).
+**VAMPP-score** is not available for installation. However, you can navigate to the web interface to access scores. VAMPP-score is planned to manually be updated on the first Friday of each month, with recalculations available on the web platform. INput variant data can be accessed from [ClinVar data](https://drive.google.com/drive/folders/1aziBk58jTu49lSItZQaPKBtEVeACfWlJ?usp=drive_link) on Google Drive. Each month's data is stored in a folder named YYYY-MM. The annotation data - calculated VAMPP-scores- is uploaded each month in the same format and can be accessed through [annotation data](https://drive.google.com/drive/folders/1-wo9QguOqtEhokpVpsrDuOsduntFEfHU?usp=drive_link).
 
 
 VAMPP-score calculation scripts are available in the `scripts` directory, organized into parts:
