@@ -18,7 +18,7 @@ dbNSFP: [Liu et al., 2011](https://doi.org/10.1002/humu.21517)
 
 
 ## Usage and Access
-**VAMPP-score** is not available for installation. However, you can navigate to the web interface to access scores. VAMPP-score is planned to manually be updated on the first Friday of each month, with recalculations available on the web platform. Input variant data can be accessed from [ClinVar data](https://drive.google.com/drive/folders/1aziBk58jTu49lSItZQaPKBtEVeACfWlJ?usp=drive_link) on Google Drive. Each month's data is stored in a folder named YYYY-MM. The annotation data - calculated VAMPP-scores- is uploaded each month in the same format and can be accessed through [annotation data](https://drive.google.com/drive/folders/1-wo9QguOqtEhokpVpsrDuOsduntFEfHU?usp=drive_link).
+**VAMPP-score** is not available for installation. However, you can navigate to the web interface to access scores. VAMPP-score is planned to manually be updated on the first Friday of each month, with recalculations available on the web platform. Each month's annotation data is stored in a folder named YYYY-MM, accessable through Google Drive. The annotation data - calculated VAMPP-scores- is uploaded each month in the same format and can be accessed through [VAMPP-score-data](https://drive.google.com/drive/folders/1emkHcTlxgjH6G-2Yl4wQQnKi5Wsip4IY?usp=drive_link).
 
 
 VAMPP-score calculation scripts are available in the `scripts` directory, organized into parts:
@@ -40,12 +40,6 @@ The scripts can be run from source after installing the dependencies. The provid
 
 ## Web Interface
 VAMPP-score will soon be available at [vamppscore.com ](https://vamppscore.com/) with a dynamic interface. You can access the VAMPP-score of a variant, a gene-score for each ISPP based on their prediction performance, and the best-performing ISPPs for your gene of interest.
-
-## License
-
-- Code: Apache License 2.0
-- Data: Creative Commons*
-
 
 ## Contact
 
