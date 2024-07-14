@@ -48,3 +48,7 @@ If you have any questions, please contact us at:
 * [Eylul Aydin](mailto:Eylul.Aydin@live.acibadem.edu.tr)
 
 ## Citation
+If you use VAMPP-score or any component of our statistical framework in your work, please cite us:
+**A New Era in Missense Variant Analysis: Statistical Insights and the Introduction of VAMPP-Score for Pathogenicity Assessment**
+Eylul Aydin, Berk Ergun, Ozlem Akgun-Dogan, Yasemin Alanay, Ozden Hatirnaz Ng, Ozkan Ozdemir
+bioRxiv (2024.07.11.602867; doi: https://doi.org/10.1101/2024.07.11.602867)
