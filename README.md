@@ -2,7 +2,7 @@
 **Variant Analysis with Multiple Pathogenicity Predictors**
 
 ## Description
-VAMPP-score is a metascore for missense variant pathogenicity prediction. It utilizes 52 available in silico pathogenicity predictors (ISPPs) from dbNSFP(v4.7A) based on their performance in distinguishing and identifying three main variant groups (Pathogenic, Benign, and Unknown). The tool is trained using ClinVar data.
+VAMPP-score is a metascore for missense variant pathogenicity prediction. It utilizes 56 available in silico pathogenicity predictors (ISPPs) from dbNSFP(v4.9A) based on their performance in distinguishing and identifying three main variant groups (Pathogenic, Benign, and Unknown). The tool is trained using ClinVar data.
 
 ClinVar: [Landrum et al., 2020](https://doi.org/10.1093/nar/gkz972)
 
