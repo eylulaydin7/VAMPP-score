@@ -39,7 +39,7 @@ The scripts can be run from source after installing the dependencies. The provid
 - scipy
 
 ## Web Interface
-VAMPP-score will soon be available at [vamppscore.com ](https://vamppscore.com/) with a dynamic interface. You can access the VAMPP-score of a variant, a gene-score for each ISPP based on their prediction performance, and the best-performing ISPPs for your gene of interest.
+VAMPP-score is available at [vamppscore.com ](https://vamppscore.com/) with a dynamic interface. You can access the VAMPP-score of a variant, a gene-score for each ISPP based on their prediction performance, and the best-performing ISPPs for your gene of interest.
 
 ## Contact
 
